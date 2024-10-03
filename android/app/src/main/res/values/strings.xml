@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XPERIS App</string>
+    <string name="facebook_app_id">979141130572251</string>
+    <string name="facebook_client_token">44e2383eba853a938122a1a69cf00729</string>
+    <string name="fb_login_protocol_scheme">fb79cb57c1f6b1408662297eed09ae716b</string>
+</resources>

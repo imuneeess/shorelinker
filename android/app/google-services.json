@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95332407892",
+    "firebase_url": "https://projetfesshore-default-rtdb.firebaseio.com",
+    "project_id": "projetfesshore",
+    "storage_bucket": "projetfesshore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95332407892:android:c842a14df3c57af0ddebc1",
+        "android_client_info": {
+          "package_name": "com.xperis.appId"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95332407892-ek61hbq8nd1ee5tqj8j6e8u2f6fgoij9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzlgcNTi0sOocwgcS2-h_qGZ06GfsVok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95332407892-ek61hbq8nd1ee5tqj8j6e8u2f6fgoij9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95332407892-vqqc4fj5al9q6iphtk083tji21fig2mn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
